@@ -1,0 +1,33 @@
+{
+  "todos": {
+    "all": [
+      {
+        "id": 1,
+        "task": "Programming Assignment",
+        "done": false
+      },
+      {
+        "id": 2,
+        "task": "Create React Project",
+        "done": true
+      }
+    ],
+    "active": [
+      {
+        "id": 1,
+        "task": "Programming Assignment",
+        "done": false
+      }
+    ],
+    "completed": [
+      {
+        "id": 2,
+        "task": "Create React Project",
+        "done": true
+      }
+    ]
+  },
+  "profile": {
+    "author": "Abdullah Sajal"
+  }
+}
